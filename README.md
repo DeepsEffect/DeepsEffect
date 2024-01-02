@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeepsEffect
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Pyhon
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning Web Development 
+- 💞️ I’m looking to collaborate on Web Development 
 - 📫 How to reach me ...
 
 <!---
