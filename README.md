@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jalal!
+# 👋 Hi, I'm Jalal Ahmed!
 A driven web developer passionate about building responsive, high-performance React<br>applications. Committed to designing modern, user-friendly, and innovative websites. Eager to<br>explore and excel in web development.
 
 
