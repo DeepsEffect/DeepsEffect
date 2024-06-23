@@ -2,7 +2,7 @@
 A driven web developer passionate about building responsive, high-performance React<br>applications. Committed to designing modern, user-friendly, and innovative websites. Eager to<br>explore and excel in web development.
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jalal-ahmed-dev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22093206) 
 
 # 💻 Tech Stack
