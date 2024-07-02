@@ -30,9 +30,11 @@ A driven web developer passionate about building responsive, high-performance Re
 
 # 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepsEffect&theme=dark&hide_border=false" alt="GitHub Streak" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepsEffect&theme=dark&hide_border=false" alt="GitHub Streak" width="70%">
 </div>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepsEffect&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepsEffect&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DeepsEffect&theme=radical&no-frame=false&no-bg=true&margin-w=4)
