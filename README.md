@@ -1,6 +1,6 @@
 <!-- ![Thumbnail](user_banner.gif) -->
 <p align="center">
-  <img src="user_banner.gif" />
+  <img width="100%" src="user_banner.gif" />
 </p>
 
 # 👋 Hi, I'm Jalal!
