@@ -29,7 +29,9 @@ A driven web developer passionate about building responsive, high-performance Re
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=DeepsEffect&theme=dark&hide_border=false)<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepsEffect&theme=dark&hide_border=false" alt="GitHub Streak" width="100%">
+</div>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepsEffect&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
