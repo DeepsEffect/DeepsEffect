@@ -1,4 +1,4 @@
-![Thumbnail](banner-ezgif.com-optimize.gif)
+![Thumbnail](user_banner.gif)
 
 # 👋 Hi, I'm Jalal!
 A driven web developer passionate about building responsive, high-performance React<br>applications. Committed to designing modern, user-friendly, and innovative websites. Eager to<br>explore and excel in web development.
