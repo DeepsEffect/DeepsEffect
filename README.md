@@ -26,17 +26,17 @@ A driven web developer passionate about building responsive, high-performance Re
 
 # 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepsEffect&theme=dark&hide_border=false" alt="GitHub Streak" width="70%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepsEffect&theme=nightowl&hide_border=false" alt="GitHub Streak" width="70%">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepsEffect&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepsEffect&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%"/>
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DeepsEffect&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=DeepsEffect&theme=nightowl&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nightowl)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DeepsEffect&icon=0&color=3)](https://visitcount.itsvg.in)
