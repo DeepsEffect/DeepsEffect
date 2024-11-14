@@ -21,12 +21,12 @@
 
 # 📊 Stats
 <p align="center">
-   <img src="https://github-readme-streak-stats-one-snowy.vercel.app?user=DeepsEffect&theme=tokyonight&hide_border=true" width="60%"/>
+   <img src="https://github-readme-streak-stats-one-snowy.vercel.app?user=DeepsEffect&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeepsEffect&theme=tokyonight" width="30%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeepsEffect&theme=tokyonight" width="30%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeepsEffect&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeepsEffect&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="60%">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" >
 </p>
