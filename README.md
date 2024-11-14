@@ -19,7 +19,7 @@
 
 # 📊 Stats
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeepsEffect&theme=nightowl" alt="github stats">
+   <img src="https://streak-stats.demolab.com/?user=DeepsEffect&theme=tokyonight"/>
 </p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeepsEffect&theme=tokyonight"/>
