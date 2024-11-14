@@ -1,5 +1,5 @@
 # 👋 About Me
-**I'm a 22-year-old developer based in Bangladesh 🇧🇩, practicing web development for the past 10 months. During this time, I've worked with various technologies and built several projects. Currently, I'm focused on front-end development and am looking for an internship to apply my skills and grow as a developer within a team environment.**
+### I'm a 22-year-old developer based in Bangladesh 🇧🇩, practicing web development for the past 10 months. During this time, I've worked with various technologies and built several projects. Currently, I'm focused on front-end development and am looking for an internship to apply my skills and grow as a developer within a team environment. ###
 
 # 💻 Techstack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,12 +21,12 @@
 
 # 📊 Stats
 <p align="center">
-   <img src="https://github-readme-streak-stats-one-snowy.vercel.app?user=DeepsEffect&theme=tokyonight&hide_border=true" />
+   <img src="https://github-readme-streak-stats-one-snowy.vercel.app?user=DeepsEffect&theme=tokyonight&hide_border=true" width='67.5%'/>
 </p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeepsEffect&theme=tokyonight" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeepsEffect&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" >
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="67.5%">
 </p>
