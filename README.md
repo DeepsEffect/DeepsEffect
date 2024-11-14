@@ -22,7 +22,7 @@
 
 # 📊 Stats
 <p align="center">
-   <img src="https://github-readme-streak-stats-one-snowy.vercel.app?user=DeepsEffect&theme=tokyonight&hide_border=true&card_width=689&card_height=225" />
+   <img src="https://github-readme-streak-stats-one-snowy.vercel.app?user=DeepsEffect&theme=tokyonight&hide_border=true&card_width=688&card_height=195" />
 </p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeepsEffect&theme=tokyonight" />
