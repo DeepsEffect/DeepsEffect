@@ -1,6 +1,6 @@
 # 👋 About Me
 
-### I'm a 22-year-old developer based in Bangladesh 🇧🇩, practicing web development for the past 10 months. During this time, I've worked with various technologies and built several projects. Currently, I'm focused on front-end development and am looking for an internship to apply my skills and grow as a developer within a team environment. ###
+#### I'm a 22-year-old developer based in Bangladesh 🇧🇩, practicing web development for the past 10 months. During this time, I've worked with various technologies and built several projects. Currently, I'm focused on front-end development and am looking for an internship to apply my skills and grow as a developer within a team environment. ####
 
 # 💻 Techstack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
