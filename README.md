@@ -1,4 +1,4 @@
-![Banner](https://github.com/DeepsEffect/DeepsEffect/blob/main/user_banner.jpg?raw=true)
+![Banner](https://github.com/DeepsEffect/DeepsEffect/blob/main/banner_tokyo_night.jpg?raw=true)
 # 👋 About Me
 
 ### I'm a 22-year-old developer based in Bangladesh 🇧🇩, practicing web development for almost a year. During this time, I've worked with various technologies and built several projects. Currently, I'm focused on front-end development and am looking for an internship to apply my skills and grow as a developer within a team environment. ###
