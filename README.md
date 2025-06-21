@@ -1,8 +1,3 @@
-![Banner](https://github.com/DeepsEffect/DeepsEffect/blob/main/banner_tokyo_night.jpg?raw=true)
-# 👋 About Me
-
-### Hey! I’m a 22-year-old developer based in Bangladesh 🇧🇩. I’ve been practicing web development for a year, with a strong focus on front-end technologies like React, Next.js, TailwindCSS, and TypeScript. Currently, I’m focused on building my skills and gaining hands-on experience in front-end development. ###
-
 # 💻 Techstack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
