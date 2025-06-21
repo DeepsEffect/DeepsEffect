@@ -23,6 +23,3 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeepsEffect&theme=tokyonight" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeepsEffect&theme=tokyonight" />
 </p>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-</p>
